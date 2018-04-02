@@ -3,3 +3,5 @@ project_description.md
 README.md
 visuals.py
 __pycache__/
+
+\.ipynb_checkpoints/finding_donors-checkpoint\.ipynb
